@@ -4,15 +4,14 @@
 
 
 
-#### Bu, React.js ile API kullanarak yaptığım ilk projem. Bu projede kullanıcı bir şehir adı girer ve o şehrin bulunduğu ülke, hava sıcaklığı ve havadurumu sonuçlarını görür. Ayrıca bu proje tailwind kullandığım ilk projedir. Bu proje HTML, CSS, Tailwind, React.js kullanılarak tamamlandı ve bu projeyi yapmaktaki amacım temel Tailwind ve React.js özelliklerini deneyimlemekti. <br> <br> <br>
+#### This is my first project t was I used API with React.js. In this project, the user enters a city name and sees the country, air temperature and weather results of that city. Also this project is the first project I used tailwind. This project was completed using HTML, CSS, Tailwind, React.js and my purpose in making this project was to experience the basic Tailwind and React.js features. <br> <br> <br>
 
-Başarılarım şunlardı:
-- Ana düzen oluşturma
+My achievements were:
+- Master layout creation
 - Flexbox
 - Tailwind
 - API
 - React.js
-
 
 
 diff
