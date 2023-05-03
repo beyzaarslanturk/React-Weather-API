@@ -4,7 +4,7 @@
 
 
 
-#### This is my first project t was I used API with React.js. In this project, the user enters a city name and sees the country, air temperature and weather results of that city. Also this project is the first project I used tailwind. This project was completed using HTML, CSS, Tailwind, React.js and my purpose in making this project was to experience the basic Tailwind and React.js features. <br> <br> <br>
+#### This is my first project  was I used API with React.js. In this project, the user enters a city name and sees the country, air temperature and weather results of that city. Also this project is the first project I used tailwind. This project was completed using HTML, CSS, Tailwind, React.js and my purpose in making this project was to experience the basic Tailwind and React.js features. <br> <br> <br>
 
 My achievements were:
 - Master layout creation
